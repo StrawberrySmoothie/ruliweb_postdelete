@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ruliweb Comment Remover
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  루리웹 댓삭기
 // @author       hdd1013
 // @match        *bbs.ruliweb.com/member/mypage/mycomment*
