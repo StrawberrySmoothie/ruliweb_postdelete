@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  루리웹 댓삭기
-// @author       You
+// @author       hdd1013
 // @match        *bbs.ruliweb.com/member/mypage/mycomment*
 // @grant        none
 // ==/UserScript==
