@@ -7,4 +7,4 @@ Tampermonkey등 유저스크립트 플러그인에서 아래 링크의 스크립
 
 댓글: `https://github.com/hdd1013/ruliweb_postdelete/releases/latest/download/postdelete.js`
 
-게시물: `https://github.com/StrawberrySmoothie/ruliweb_postdelete/blob/master/postdelete.js`
+게시물: `https://raw.githubusercontent.com/StrawberrySmoothie/ruliweb_postdelete/master/articledelete.js`
